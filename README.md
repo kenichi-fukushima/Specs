@@ -1,3 +1,5 @@
+A test change to verify SSH key.
+
 # The CocoaPods Master Repo
 
 This repository contains the public [CocoaPods](https://github.com/CocoaPods/CocoaPods) specifications.
